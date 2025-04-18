@@ -2,6 +2,7 @@ import axios from "axios";
 
 axios.defaults.baseURL = "http://localhost:3000"
 
+//Endpoints
 export const getStudentsAPI = async () => {
     return axios.get('/students')
 }

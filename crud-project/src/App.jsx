@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { Fragment } from 'react'
+import MyGrid from './components/MyGrid'
+
 
 const App = () => {
   return (
-    <div>
-
-    </div>
+    <Fragment>
+      <MyGrid />
+    </Fragment>
   )
 }
 
