@@ -1,0 +1,40 @@
+{
+    "students": [
+        {
+            "id": "b-25771",
+            "name": "Muhammad Ali Khalil",
+            "email": "b-25771@student.usa.edu.pk",
+            "password": "@b-25771"
+        },
+        {
+            "id": "b-24981",
+            "name": "Muhammad Asad",
+            "email": "b-24981@student.usa.edu.pk",
+            "password": "@b-24981"
+        },
+        {
+            "id": "b-25484",
+            "name": "Muhammad Bilal",
+            "email": "b-25484@student.usa.edu.pk",
+            "password": "@b-25484"
+        },
+        {
+            "id": "b-25788",
+            "name": "Saweed Aslam",
+            "email": "b-25788@student.usa.edu.pk",
+            "password": "@b-25788"
+        },
+        {
+            "id": "b-25742",
+            "name": "Asadullah",
+            "email": "b-25742@student.usa.edu.pk",
+            "password": "@b-25742"
+        },
+        {
+            "id": "b-24894",
+            "name": "Mudassir Ahmad",
+            "email": "b-24894@student.usa.edu.pk",
+            "password": "@b-24894"
+        }
+    ]
+}
